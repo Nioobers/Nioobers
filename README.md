@@ -11,4 +11,4 @@ I'm a French Linux (Fedora) and macOs user who knows how to code some stuff but 
 
 [![Top Language Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=Nioobers&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Language Wakatime](https://wakatime.com/share/@75456039-0d87-4f2c-8293-b44f2f66b0c0/c6a7e24b-3309-4404-95ee-806c8f2f0afb.png)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@75456039-0d87-4f2c-8293-b44f2f66b0c0/5cb9d654-7d31-4781-af06-3b7b7dbbc09b.png" /></a>
