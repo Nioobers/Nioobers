@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Hello I am a Sailor Moon fangirl and Ami Mizuno is the best waifu of the world](./sailor-moon-sailor-mercury.gif)
+<img src="sailor-moon-sailor-mercury.gif" height="150">
 
 I'm a French Linux (Fedora) and macOs user who knows how to code some stuff but not a lot of stuff if not almost nothing.
 
