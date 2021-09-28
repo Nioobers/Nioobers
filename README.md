@@ -5,7 +5,7 @@
 I'm a French Linux (Fedora) and macOs user who knows how to code some stuff but not a lot of stuff if not almost nothing.
 
 - I’m currently learning : C, Python, JavaScript, Rust, Golang, Swift and Bash
-- I plan to learn : C++, C#, Ruby, TypeScript, Zig, V, OCaml, Pascal, AppleScript, Objective-C, Java, Haskell, Nim and Docker
+- I plan to learn : C++, C#, Ruby, TypeScript, Zig, V, OCaml, Pascal, AppleScript, Objective-C, Java, Haskell, Nim, Lua and Docker
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Nioobers&show_icons=true&theme=tokyonight)
 
