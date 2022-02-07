@@ -2,10 +2,10 @@
 
 <img src="sailor-moon-sailor-mercury.gif" height="150">
 
-I'm a French Linux (Fedora) and macOs user who knows how to code some stuff but not a lot of stuff if not almost nothing.
+I'm a French user of Linux (Fedora) and macOs who is learning stuff.
 
-- I’m currently learning : Python, Rust, Golang, JavaScript, Swift and Bash
-- I plan to learn : C++, C#, Ruby, Zig, V, OCaml, Pascal, AppleScript, Objective-C, Java, Haskell, Nim, Lua and Docker
+- I know : Python (I'm still learning), HTML, and a little of CSS
+- I plan to learn : C, C#, Rust, Golang, JavaScript, Docker and other things 
 
  ![I like github stats part 1](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nioobers&theme=nord_dark) 
  ![I like github stats part 2](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nioobers&theme=nord_dark)
