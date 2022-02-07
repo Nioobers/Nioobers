@@ -6,7 +6,7 @@ I'm a French user of Linux (Fedora) and macOs who is learning stuff.
 
 - I know : Python (I'm still learning), HTML, and a little of CSS
 - I plan to learn : C, C#, Rust, Golang, JavaScript, Docker and potentially other things 
-- My pronouns is She/Her and He/Him
+- My pronouns are She/Her and He/Him
 
  ![I like github stats part 1](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nioobers&theme=nord_dark) 
  ![I like github stats part 2](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nioobers&theme=nord_dark)
